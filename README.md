@@ -8,4 +8,5 @@
 6. Trending videos
 7. Creating Music
 8. Location Services 
+9. Mute background noises
 
