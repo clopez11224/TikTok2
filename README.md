@@ -1,5 +1,11 @@
 # TikTok2
-1. 3D videos
-2. Trending videos
-3. Creating Music
-4. Location Services 
+
+1. VR ability
+2. Different themes
+3. Accesibility
+4. Blocked content
+5. 3D videos
+6. Trending videos
+7. Creating Music
+8. Location Services 
+
